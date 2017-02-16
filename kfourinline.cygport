@@ -1,8 +1,8 @@
-inherit kde4
+inherit kf5
 
 NAME="kfourinline"
-VERSION=14.12.3
+VERSION=16.08.3
 RELEASE=1
 CATEGORY="Games"
-SUMMARY="KDE Connect Four game"
+SUMMARY="KDE four-in-a-row game"
 DESCRIPTION="Part of the KDE games suite"
